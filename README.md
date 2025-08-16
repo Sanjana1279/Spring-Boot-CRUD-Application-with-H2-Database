@@ -1,24 +1,24 @@
-Features
+**Features:**
 
-Create new users (POST)
+1.Create new users (POST)
 
-Fetch all users or by ID (GET)
+2.Fetch all users or by ID (GET)
 
-Update existing user (PUT)
+3.Update existing user (PUT)
 
-Delete user (DELETE)
+4.Delete user (DELETE)
 
-In-memory H2 database console at /h2-console
+5.In-memory H2 database console at /h2-console
 
-Tech Stack
+**Tools:**
 
-Java 17+
+1.Java 17+
 
-Spring Boot 3.x
+2.Spring Boot 3.x
 
-Spring Data JPA
+3.Spring Data JPA
 
-H2 Database
+4.H2 Database
 
-Maven
+5.Maven
 
